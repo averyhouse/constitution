@@ -34,8 +34,6 @@ The rights granted are as follows:
 
 There will be three classes of dues-paying members: Social members, associate members, and non-associate full members. Associate members are defined as the subset of full members who do not have Avery listed as their primary house. Associate members will pay separate dues rates, and will have dues directly collected from them by the House.
 
-Note: Full membership dues are now \$90 but are covered by the Institute, so there is, as before, no out of pocket amount paid by full members. Associate membership dues are \$45 out of pocket, the current rate for dual members, and social membership dues are \$30. Hence, the amount of money paid out of pocket by all types of members will remain the same.
-
 The dues rates are as follows:
 	NON-ASSOCIATE FULL Members: \$90
 	ASSOCIATE Members: \$45
