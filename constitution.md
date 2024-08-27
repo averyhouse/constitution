@@ -178,7 +178,7 @@ A vote of no confidence against an Officer of Avery may be brought before the Me
 
 # Article 4. Room Picks
 
-1. Only Avery Members who have held Membership for an appropriate interval prior to the due date of the internal lottery forms may participate in internal room picks. This interval shall be determined by the ExComm with guidance from the Room Picks Bylaws.
+1. Only Avery Members who have held Membership for an appropriate interval prior to the due date of the internal lottery forms may participate in internal room picks. This interval shall be determined by the ExComm with guidance from the [Room Picks Bylaws](https://docs.google.com/document/d/1OVbH2UcJvzgzEpyvX63aN2xMakNexrWwUaUB-jh3aF4/edit?usp=sharing).
 2. If any undergraduate spot will become vacant during the course of the academic year, it will be filled in an appropriate way as determined by the Avery bylaws.
 3. The Chancellor, Social Director, Vice-Chancellor, Athletics Manager, and Secretary can choose to have priority picks for any non-suite single room during the Avery internal lottery in that order.
 4. 3 of the new Peer Advocates are guaranteed a single during Avery internal lottery, one of them being the Head Peer Advocate, and the others will be guaranteed a room during Avery internal lottery, but will be given no further privileges for room picks.
