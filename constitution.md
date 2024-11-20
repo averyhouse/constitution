@@ -84,12 +84,12 @@ No person will be Chancellor for more than two consecutive years.
 5. Publish and maintain this Constitution on the Avery website.
 6. Record and tabulate the results of all votes made by the Excomm or Avery House, initializing the online system if in use.
 
-###2.1.4. Social Director
+### 2.1.4. Social Director
 
 1. Be responsible for regularly updating the House on Social Team activities and expenditures; and
 2. Organize and preside over Social Team meetings, approve Social Team decisions or defer them to the ExComm, and monitor the Social Team budget.
 
-###2.1.5. Athletics Manager
+### 2.1.5. Athletics Manager
 
 1. Organize Avery teams for interhouse sports;
 2. Maintain the Avery Ath list; and
